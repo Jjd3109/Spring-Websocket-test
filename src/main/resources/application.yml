@@ -1,8 +1,16 @@
-spring:
-  devtools:
-    livereload:
-      enabled: true
-    restart:
-      enabled: false
-  freemarker:
-    cache: false
+#1번 설정
+#spring:
+#  devtools:
+#    livereload:
+#      enabled: true
+#    restart:
+#      enabled: false
+#  freemarker:
+#    cache: false
+
+
+
+#
+#spring:
+#  profiles:
+#    active: local
